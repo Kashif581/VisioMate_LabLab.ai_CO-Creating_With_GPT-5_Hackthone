@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 class VideoProcessor:
-    def __init__(self, model_path="https://ultralytics.com/assets/models/yolov8n.pt", detection_log=None):
+    def __init__(self, model_path="../YOLO_models/yolov8n.pt", detection_log=None):
         self.model = YOLO(model_path)
         self.detection_log = detection_log
 
