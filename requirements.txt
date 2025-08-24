@@ -4,3 +4,4 @@ gTTS
 pygame
 python-dotenv
 google-genai
+ultralytics
