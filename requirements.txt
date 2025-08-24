@@ -1,3 +1,6 @@
 streamlit
 opencv-python
-pyttsx3
+gTTS
+pygame
+python-dotenv
+google-genai
