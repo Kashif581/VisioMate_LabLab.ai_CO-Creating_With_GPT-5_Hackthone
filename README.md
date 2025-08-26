@@ -24,5 +24,11 @@ VisioMate, powered by computer vision, works in a similar way to help visually i
 * Pyttsx3 (for speech)
 * Streamlit (UI)
 
+
+
+https://github.com/user-attachments/assets/d4e671b4-6120-4c18-b1d6-034613e19df8
+
+
+
   [Presentation](https://www.canva.com/design/DAGwgwYtczs/GXBbrDj50jQ1JkwTyVsmwA/view?utm_content=DAGwgwYtczs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha7abbf2bdf)
 
